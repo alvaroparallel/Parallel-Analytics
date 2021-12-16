@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.69ff295b.chunk.css",
-    "main.js": "/static/js/main.e16e9cc0.chunk.js",
-    "main.js.map": "/static/js/main.e16e9cc0.chunk.js.map",
+    "main.css": "/static/css/main.9eda87ff.chunk.css",
+    "main.js": "/static/js/main.0ce2652a.chunk.js",
+    "main.js.map": "/static/js/main.0ce2652a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.0d1add06.js",
     "runtime-main.js.map": "/static/js/runtime-main.0d1add06.js.map",
     "static/js/2.a4f0719e.chunk.js": "/static/js/2.a4f0719e.chunk.js",
     "static/js/2.a4f0719e.chunk.js.map": "/static/js/2.a4f0719e.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.69ff295b.chunk.css.map": "/static/css/main.69ff295b.chunk.css.map",
+    "static/css/main.9eda87ff.chunk.css.map": "/static/css/main.9eda87ff.chunk.css.map",
     "static/js/2.a4f0719e.chunk.js.LICENSE.txt": "/static/js/2.a4f0719e.chunk.js.LICENSE.txt",
     "static/media/styles.css": "/static/media/bg.340111c4.png",
     "static/media/binance.d8c61230.svg": "/static/media/binance.d8c61230.svg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.0d1add06.js",
     "static/js/2.a4f0719e.chunk.js",
-    "static/css/main.69ff295b.chunk.css",
-    "static/js/main.e16e9cc0.chunk.js"
+    "static/css/main.9eda87ff.chunk.css",
+    "static/js/main.0ce2652a.chunk.js"
   ]
 }
