@@ -1,8 +1,14 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/static/css/main.ced0aaa6.chunk.css",
     "main.js": "/static/js/main.a38180f2.chunk.js",
     "main.js.map": "/static/js/main.a38180f2.chunk.js.map",
+=======
+    "main.css": "/static/css/main.89d83ea6.chunk.css",
+    "main.js": "/static/js/main.74bc34a4.chunk.js",
+    "main.js.map": "/static/js/main.74bc34a4.chunk.js.map",
+>>>>>>> parent of a5f651f (updating version)
     "runtime-main.js": "/static/js/runtime-main.0d1add06.js",
     "runtime-main.js.map": "/static/js/runtime-main.0d1add06.js.map",
     "static/js/2.405d02eb.chunk.js": "/static/js/2.405d02eb.chunk.js",
@@ -15,8 +21,14 @@
   },
   "entrypoints": [
     "static/js/runtime-main.0d1add06.js",
+<<<<<<< HEAD
     "static/js/2.405d02eb.chunk.js",
     "static/css/main.ced0aaa6.chunk.css",
     "static/js/main.a38180f2.chunk.js"
+=======
+    "static/js/2.06508045.chunk.js",
+    "static/css/main.89d83ea6.chunk.css",
+    "static/js/main.74bc34a4.chunk.js"
+>>>>>>> parent of a5f651f (updating version)
   ]
 }
